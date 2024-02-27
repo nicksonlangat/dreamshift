@@ -1,19 +1,13 @@
-# movers
+# About Dreamshift
+A website for a mover company that helps citizens move from one house, apartment, town or city to another.
+Aim is to enhance their online presence and increase conversions. \
+This is built using Vue Js and Tailwind CSS.
 
-## Project setup
-```
-npm install
-```
+Explore the live version via 
+<a href="https://dreamshift.vercel.app/"> this link</a>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+It looks like below:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<img src="screens/shift.png" width="900"/>
